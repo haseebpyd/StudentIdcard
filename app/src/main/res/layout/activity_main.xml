@@ -5,18 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
+    android:background="@drawable/background2"
 
 
     >
 
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:srcCompat="@drawable/background2"
-        android:scrollbarAlwaysDrawVerticalTrack="false"
-        android:scrollbarAlwaysDrawHorizontalTrack="false"
-        />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -47,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="15dp"
                 android:layout_weight="1"
-                android:text="PMAS AAUR"
+                android:text="@string/pmas_aaur"
                 android:textColor="@color/black"
 
                 android:textSize="36sp" />
@@ -78,7 +71,7 @@
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Muhammad Haseeb"
+            android:text="@string/student_name"
             android:textSize="30dp"
             android:textColor="@color/black"
             android:textStyle="bold"
@@ -89,7 +82,7 @@
             android:id="@+id/textView5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="18-ARID-2974"
+            android:text="@string/arid_no"
             android:textColor="@color/black"
             android:textSize="25dp"
 
@@ -99,7 +92,7 @@
             android:id="@+id/textView6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="BS(Software Engineering)"
+            android:text="@string/degree"
             android:textSize="20dp"
             android:textColor="@color/black"
             />
@@ -108,7 +101,7 @@
             android:id="@+id/textView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="UIIT"
+            android:text="@string/department"
             android:textSize="40dp"
             android:textColor="@color/black"
             android:layout_marginTop="100dp"

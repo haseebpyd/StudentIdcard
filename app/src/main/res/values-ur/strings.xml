@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اسٹوڈنٹ کارڈ</string>
+    <string name="student_name">محمد حسیب</string>
+    <string name="pmas_aaur">PMAS AAUR</string>
+    <string name="degree">بی ایس (سافٹ ویئر انجینئرنگ)</string>
+    <string name="arid_no">18-ARID-2974</string>
+    <string name="department">UIIT</string>
+</resources>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StudentCard</string>
+    <string name="pmas_aaur">PMAS AAUR</string>
+    <string name="student_name">Muhammad Haseeb</string>
+    <string name="degree">BS(Software Engineering)</string>
+    <string name="arid_no">18-ARID-2974</string>
+    <string name="department">UIIT</string>
 </resources>
