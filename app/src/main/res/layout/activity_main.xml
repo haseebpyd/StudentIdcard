@@ -7,7 +7,6 @@
     tools:context=".MainActivity"
     android:background="@drawable/background2"
 
-
     >
 
 
@@ -42,7 +41,6 @@
                 android:layout_weight="1"
                 android:text="@string/pmas_aaur"
                 android:textColor="@color/black"
-
                 android:textSize="36sp" />
 
         </LinearLayout>
